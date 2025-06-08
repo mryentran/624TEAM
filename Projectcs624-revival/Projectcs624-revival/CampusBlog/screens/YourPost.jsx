@@ -147,7 +147,7 @@ export default function YourPost() {
 
 const styles = StyleSheet.create({
   mainContainer: {
-    flex: 1,
+    height:'100vh',
     backgroundColor: '#fff',
   },
   container: {

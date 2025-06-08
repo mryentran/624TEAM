@@ -23,7 +23,7 @@ export function PostDetail({ route }) {
 }
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    height:'100vh',
     padding: 20,
     backgroundColor: '#fff',
   },
