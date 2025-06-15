@@ -1,4 +1,4 @@
-# CampusBlog
+#ProjectCS624: CampusBlog
 
 CampusBlog is a full-stack blogging platform designed for campus communities. It features a React Native frontend (with Expo) and a Node.js/Express backend.
 
